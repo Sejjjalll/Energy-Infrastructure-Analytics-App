@@ -10,6 +10,19 @@ Using building-level asset data, **Census ACS5 households**, and the **NREL alte
 
 ---
 
+
+## 🖼️ Dashboard / map preview
+
+O
+
+```md
+<img width="1727" height="399" alt="image" src="https://github.com/user-attachments/assets/bbf3c765-f4a9-404c-975e-a9a38294154f" />
+<img width="1772" height="615" alt="image" src="https://github.com/user-attachments/assets/a143c102-d381-4894-b75a-2fcfa8b465d1" />
+<img width="1051" height="628" alt="image" src="https://github.com/user-attachments/assets/17f6311b-a3ff-4dba-969e-140e31fe2513" />
+<img width="1761" height="753" alt="image" src="https://github.com/user-attachments/assets/312c8831-4b01-4257-85d4-287f8c1fa2b3" />
+
+
+
 ## ✨ What this project does
 
 - analyzes **357 energy-related assets** across the DFW region
@@ -165,14 +178,3 @@ Instead, it gives a more balanced view of infrastructure opportunity.
 - Household density within **3 miles** had one of the strongest positive relationships with the final score.
 - The asset classification step still leaves a meaningful share of records as `unknown`, which is one area I’d improve in a future version.
 
----
-
-## 🖼️ Dashboard / map preview
-
-Once you upload screenshots, place them here.
-
-```md
-![Overview Dashboard](dashboards/screenshots/overview-dashboard.png)
-![Priority Map](dashboards/screenshots/priority-map.png)
-![Top Assets Chart](dashboards/screenshots/top-assets-chart.png)
-![Category Summary](dashboards/screenshots/category-summary.png)
