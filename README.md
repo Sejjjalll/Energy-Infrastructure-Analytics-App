@@ -13,9 +13,6 @@ Using building-level asset data, **Census ACS5 households**, and the **NREL alte
 
 ## 🖼️ Dashboard / map preview
 
-O
-
-```md
 <img width="1727" height="399" alt="image" src="https://github.com/user-attachments/assets/bbf3c765-f4a9-404c-975e-a9a38294154f" />
 <img width="1772" height="615" alt="image" src="https://github.com/user-attachments/assets/a143c102-d381-4894-b75a-2fcfa8b465d1" />
 <img width="1051" height="628" alt="image" src="https://github.com/user-attachments/assets/17f6311b-a3ff-4dba-969e-140e31fe2513" />
